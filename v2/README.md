@@ -1,8 +1,9 @@
-# V1 - 11/2023
+# V2 - 01/2024
 
 ## Tech Stack
 
 - **Frontend:**
+  - TypeScript
   - React
   - Styled Components
   - GraphQL
